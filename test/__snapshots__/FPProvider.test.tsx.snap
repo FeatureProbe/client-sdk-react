@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should start SDK with FPClient successfully 1`] = `
+<div>
+  <div>
+    FeatureProbe
+  </div>
+</div>
+`;
+
+exports[`should start SDK with config successfully 1`] = `
+<div>
+  <div>
+    abc
+  </div>
+</div>
+`;
