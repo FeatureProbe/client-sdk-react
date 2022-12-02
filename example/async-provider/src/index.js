@@ -9,7 +9,7 @@ import './index.css';
   const FPProvider = await AsyncFPProvider({
     togglesUrl: window.location.origin + '/server/api/client-sdk/toggles',
     eventsUrl:  window.location.origin + '/server/api/events',
-    clientSdkKey: 'client-29765c7e03e9cb49c0e96357b797b1e47e7f2dee',
+    clientSdkKey: 'client-f0181852abb20940113fb22f6efd9297cbd05577',
     user: new FPUser(),
     refreshInterval: 3000,
   });
