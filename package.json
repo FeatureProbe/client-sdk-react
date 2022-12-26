@@ -1,6 +1,6 @@
 {
   "name": "featureprobe-client-sdk-react",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "FeatureProbe Client Side SDK for React",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -41,7 +41,7 @@
     "url": "https://github.com/FeatureProbe/client-sdk-react/issues"
   },
   "dependencies": {
-    "featureprobe-client-sdk-js": "^1.1.5"
+    "featureprobe-client-sdk-js": "^1.2.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^13.1.0",
