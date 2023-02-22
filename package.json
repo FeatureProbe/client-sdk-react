@@ -1,6 +1,6 @@
 {
   "name": "featureprobe-client-sdk-react",
-  "version": "1.1.0",
+  "version": "2.0.1",
   "description": "FeatureProbe Client Side SDK for React",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -29,7 +29,9 @@
   },
   "keywords": [
     "featureprobe",
-    "client"
+    "sdk",
+    "feature management",
+    "feature toggle"
   ],
   "license": "Apache-2.0",
   "homepage": "https://github.com/FeatureProbe/client-sdk-react",
@@ -41,7 +43,7 @@
     "url": "https://github.com/FeatureProbe/client-sdk-react/issues"
   },
   "dependencies": {
-    "featureprobe-client-sdk-js": "^1.2.0"
+    "featureprobe-client-sdk-js": "^2.0.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^13.1.0",
