@@ -10,6 +10,7 @@ const givenConfig: FPConfig = {
   clientSdkKey: 'my-app',
   user: new FPUser(),
   remoteUrl: 'http://127.0.0.1:4007',
+  enableAutoReporting: false,
 };
 
 const _fetch = fetch as FetchMock;
