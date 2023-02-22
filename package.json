@@ -43,7 +43,7 @@
     "url": "https://github.com/FeatureProbe/client-sdk-react/issues"
   },
   "dependencies": {
-    "featureprobe-client-sdk-js": "^2.0.1"
+    "featureprobe-client-sdk-js": "^2.0.2"
   },
   "devDependencies": {
     "@commitlint/cli": "^13.1.0",
