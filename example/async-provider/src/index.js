@@ -7,11 +7,10 @@ import './index.css';
 
 (async () => {
   const FPProvider = await AsyncFPProvider({
-    togglesUrl: window.location.origin + '/server/api/client-sdk/toggles',
-    eventsUrl:  window.location.origin + '/server/api/events',
+    remoteUrl: window.location.origin + '/server',
     clientSdkKey: 'client-f0181852abb20940113fb22f6efd9297cbd05577',
     user: new FPUser(),
-    refreshInterval: 3000,
+    refreshInterval: 5000,
   });
 
   const root = ReactDOM.createRoot(document.getElementById('root'));
