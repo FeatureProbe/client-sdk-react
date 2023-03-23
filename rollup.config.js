@@ -10,7 +10,7 @@ export default {
   output: [
     {
       file: "./dist/featureprobe-client-sdk-react.min.js",
-      format: "iife",
+      format: "esm",
       name: "featureProbe",
     },
   ],
