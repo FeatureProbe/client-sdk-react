@@ -18,7 +18,7 @@ Reading the short [Doc](https://github.com/FeatureProbe/feature-probe-docs/blob/
 
 ## How to use this SDK
 
-See [SDK Doc](https://docs.featureprobe.com/how-to/Client-Side%20SDKs/react-sdk/) for detail（[中文](https://docs.featureprobe.com/zh-CN/how-to/Client-Side%20SDKs/react-sdk/)）. For more information about SDK API, please reference [SDK API](https://featureprobe.github.io/client-sdk-react/).
+See [SDK Doc](https://featureprobe.github.io/FeatureProbe/how-to/Client-Side%20SDKs/react-sdk) for detail（[中文](https://featureprobe.github.io/FeatureProbe/zh-CN/how-to/Client-Side%20SDKs/react-sdk/)）. For more information about SDK API, please reference [SDK API](https://featureprobe.github.io/client-sdk-react/).
 
 
 ## Contributing
